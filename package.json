@@ -43,7 +43,7 @@
     "@pika/plugin-build-node": "^0.5.1",
     "@pika/plugin-copy-assets": "^0.5.1",
     "@pika/plugin-simple-bin": "^0.5.1",
-    "@pika/plugin-ts-standard-pkg": "^0.3.13",
+    "@pika/plugin-ts-standard-pkg": "^0.5.1",
     "@types/gm": "^1.18.2",
     "@types/jest": "^24.0.9",
     "@types/lodash": "^4.14.92",
