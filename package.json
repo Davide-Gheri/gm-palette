@@ -47,7 +47,7 @@
   },
   "homepage": "https://github.com/Davide-Gheri/gm-palette#readme",
   "dependencies": {
-    "commander": "^2.19.0",
+    "commander": "^3.0.0",
     "gm": "^1.23.1"
   },
   "devDependencies": {
