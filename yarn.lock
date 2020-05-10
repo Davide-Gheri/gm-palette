@@ -138,10 +138,10 @@
   dependencies:
     "@babel/types" "^7.3.0"
 
-"@types/gm@^1.18.4":
-  version "1.18.4"
-  resolved "https://registry.yarnpkg.com/@types/gm/-/gm-1.18.4.tgz#3c811389af9472f55e473f449e3f5dbffcadce59"
-  integrity sha512-pHlGVy0d8A2/BoKkXoOSAjR4p8VknBM0QRI8naC4rbqD9tuE09n3ASP0GTBErQPLq+EFW5KtIyb9yFiEzJdpug==
+"@types/gm@^1.18.8":
+  version "1.18.8"
+  resolved "https://registry.yarnpkg.com/@types/gm/-/gm-1.18.8.tgz#4336986df714b9350ea30f4479aad2de97b3610a"
+  integrity sha512-FE7GWdfcnj+tHyMjnxfEyX0ARRkodclFvaPW9/cxQsDowTfmvXufpov51/qp6yHMbkg1QX9pt7qFohpq4qWBKg==
   dependencies:
     "@types/node" "*"
 
